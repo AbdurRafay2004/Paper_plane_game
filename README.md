@@ -5,4 +5,4 @@ A 2D game made with unity game engine
   <img width=50% src="https://github.com/AbdurRafay2004/Paper_plane_game/assets/99770288/6feabe50-c552-437e-a22c-d2153305785c" />
 </a>
 <br>
-If you want to check out the game, there's a beta version in the release section. Just unzip the zipped file and run the **basic.exe** in the **PaperPlane**
+If you want to check out the game, there's a beta version in the release section. Just unzip the zipped file and run the basic.exe in the PaperPlane
